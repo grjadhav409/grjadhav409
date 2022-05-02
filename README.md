@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/3a/ac/e2/3aace283f5230e04377a5e8dbd4e13f9.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Jadhav</h1>
 <h3 align="center">A passionate organic chemist and data scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 
