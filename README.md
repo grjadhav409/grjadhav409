@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/grjadhav409" target="blank"><img src="https://img.shields.io/twitter/follow/grjadhav409?logo=twitter&style=for-the-badge" alt="grjadhav409" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning for drug discovery**
+- 🔭 I’m currently working on **Machine Learning for Chemical Science**
 
 - 🌱 I’m currently learning **Data Science**
 
