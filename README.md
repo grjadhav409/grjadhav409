@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Jadhav</h1>
-<h3 align="center">A passionate organic chemist and data scientist.</h3>
+<h3 align="center">I'm passionate about using data and chemistry to make the world a better place.|.</h3>
 
 
 
