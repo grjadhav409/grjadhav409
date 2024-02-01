@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Jadhav</h1>
-<h3 align="center">I'm passionate about using data science and chemistry to make the world a better place.</h3>
+<h3 align="center">--</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/grjadhav409" target="blank"><img src="https://img.shields.io/twitter/follow/grjadhav409?logo=twitter&style=for-the-badge" alt="grjadhav409" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning for Chemical Science**
+- 🔭 I’m currently working on **Machine Learning/ DevOps/ ITIL**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **AI, Cryptocurrency, Chemistry**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **grjadhav409@gmail.com**
 
